@@ -38,7 +38,7 @@ print("████████████████████████�
 print("█                       SNAPCHAT CRACKER BY A HOT TRANS GIRL                         █")
 print("██████████████████████████████████████████████████████████████████████████████████████")
 
-print(f"[░]Now attempting to crack: {targetusername}")
+print(f"[░]Now attempting to crack: {ashley.nkh}")
 
 # Calling class 'Snapchat' from pysnap.__init__
 proxy = ''
